@@ -69,7 +69,7 @@ Menu automatically saves when data changes.
 
 🔒 Admin Authentication
 
-if(strcmp(pass, "admin123") != 0)
+if(strcmp(pass, "DISHA123") != 0)
 
 Only users with password admin123 can access system features.
 
