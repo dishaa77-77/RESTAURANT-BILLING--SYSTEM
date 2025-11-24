@@ -158,3 +158,9 @@ if(menu[index].quantity < 5)
 
 gcc restaurant.c -o restaurant
 ./restaurant
+----------------------------------------------------------------------
+PICTURE- <img width="1918" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a0f93ef9-2a3d-4ac6-bd90-f824ff857427" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/681bbd59-9c20-4b64-8f21-65a1ea8b2b99" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/4f5ee7c6-892a-4697-8050-b4e4d4e3e331" />
+<img width="1915" height="1079" alt="Image" src="https://github.com/user-attachments/assets/de212d88-195f-4688-aaaf-d5a7f5ab6c4d" />
+<img width="1917" height="1077" alt="Image" src="https://github.com/user-attachments/assets/a0719012-c7f7-4ad3-831c-bde37875c387" />
