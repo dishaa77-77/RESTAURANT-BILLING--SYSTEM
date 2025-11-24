@@ -125,19 +125,7 @@ Discount + GST included
 ---------------------------------------------------------------------------------------------------------------------------
 🎯 Unique Features
 
-Secure Admin Login for menu management.
-
-Real-time stock update after each billing.
-
-Low stock warning to help in refilling inventory.
-
-GST and discount calculation for accurate billing.
-
-Supports Dine-In and Takeaway orders.
-
-Automatically stores menu and sales data using files.
-
-Sorting and searching options to easily find menu items.
+Here I am adding a password where without applying the password nobody can open this billing system.
 --------------------------------------------------------------------------------------------------------------------
 
 📌 Bill Summary Example
